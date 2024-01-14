@@ -1,7 +1,7 @@
 { pkgs }: {
     deps = [
         pkgs.graalvm17-ce
-        pkgs.gradle
+        pkgs.maven
         pkgs.replitPackages.jdt-language-server
         pkgs.replitPackages.java-debug
     ];

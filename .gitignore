@@ -1,6 +1,5 @@
-build/
-.upm/
-.cache/
 target/
-.gradle/*
-!.gradle/gradle.properties
+.cache/
+.upm/
+*.class
+.breakpoints
